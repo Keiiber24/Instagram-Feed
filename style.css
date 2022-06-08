@@ -1,0 +1,26 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.feeds {
+    background-color: rgb(189, 189, 189);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    text-align: left;
+}
+img {
+    object-fit: cover;
+    width: 500px;
+    height: 350px;
+}
+.Caja {
+    background-color: white;
+    border: 1px;
+    width: 500px;
+    height: 500px;
+    margin:50px;
+}
